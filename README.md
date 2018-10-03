@@ -1,2 +1,2 @@
 # spring_boot_api
-Just Learning Spring Boot
+Just Learning Spring Boot api
